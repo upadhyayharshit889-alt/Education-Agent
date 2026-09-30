@@ -1,0 +1,18 @@
+Student: Harshit
+
+Course: Data Science
+
+Subjects and Marks:
+Python - 85
+SQL - 72
+Statistics - 55
+Machine Learning - 48
+Power BI - 80
+
+Syllabus:
+Python basics
+SQL queries and joins
+Statistics
+Machine Learning
+Power BI dashboards
+Data Visualization
